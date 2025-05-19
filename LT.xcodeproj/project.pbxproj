@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F649F6442DDAFE6E0023B95A /* LT */ = {
+		F6E3C5EA2DDB1E9A004F9026 /* LT */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = LT;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		F649F6392DDAFE6E0023B95A = {
 			isa = PBXGroup;
 			children = (
-				F649F6442DDAFE6E0023B95A /* LT */,
+				F6E3C5EA2DDB1E9A004F9026 /* LT */,
 				F649F6432DDAFE6E0023B95A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F649F6442DDAFE6E0023B95A /* LT */,
+				F6E3C5EA2DDB1E9A004F9026 /* LT */,
 			);
 			name = LT;
 			packageProductDependencies = (
@@ -178,6 +178,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = /Users/don/LT/LT/Info.plist;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
@@ -236,6 +237,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = /Users/don/LT/LT/Info.plist;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
